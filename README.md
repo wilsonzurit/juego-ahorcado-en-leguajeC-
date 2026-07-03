@@ -70,6 +70,8 @@ juego_ahorcado/
 2. Adivina la palabra leyendo la pista de letras
 3. Selecciona letras en el teclado virtual
 4. Evita perder todas las vidas
+   <img width="754" height="553" alt="image" src="https://github.com/user-attachments/assets/a33c6f24-302a-4cf0-b6a4-1cb3e32e4352" />
+
 
 ## Licencia 📄
 
